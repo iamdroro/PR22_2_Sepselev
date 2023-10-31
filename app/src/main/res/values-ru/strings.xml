@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моя погода</string>
+
+    //MainActivity.
+    <string name="startedtitle">JSON and XML Weather API and Geolocation Developer API</string>
+    <string name="title">Регистрация</string>
+    <string name="username">Имя Пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="remember">Запомнить меня в следующий раз</string>
+    <string name="signin">Войти</string>
+
+    //MainActivity message.
+    <string name="emptyfield">Пустые поля</string>
+
+    //WeatherForecastActivity.
+    <string name="entercity">Введите город</string>
+    <string name="weather">Узнать погоду</string>
+    <string name="now">Сейчас</string>
+    <string name="temp">Температура:</string>
+    <string name="pressure">Давление:</string>
+    <string name="windySpeed">Скорость ветра:</string>
+    <string name="humidity">Влажность:</string>
+    <string name="save">Сохранить</string>
+
+    //WeatherForecastActivity message.
+    <string name="notfound">Не найдено</string>
+
+    //Row Weather.
+    <string name="city">Город:</string>
+
+    //EditorActivity message.
+    <string name="onlydigit">Температура, Скорость ветра, Давление и Влажность записываются только цифрами</string>
+
+    <string-array name="itemsoption">
+        <item>Изменить</item>
+        <item>Удалить</item>
+        <item>Отмена</item>
+    </string-array>
+</resources>

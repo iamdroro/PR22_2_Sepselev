@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-mergeDebugResources-33:\\layout\\activity_editor.xml",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\layout\\activity_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-mergeDebugResources-33:\\layout\\row_weather.xml",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\layout\\row_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-mergeDebugResources-33:\\layout\\activity_authorization.xml",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\layout\\activity_authorization.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-mergeDebugResources-33:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-mergeDebugResources-33:\\layout\\activity_weather_forecast.xml",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\layout\\activity_weather_forecast.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-mergeDebugResources-33:/layout/activity_authorization.xml",
+        "source": "com.example.myweatherapiroom.app-main-36:/layout/activity_authorization.xml"
+    }
+]

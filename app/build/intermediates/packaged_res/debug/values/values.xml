@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="itemsoption">
+        <item>Change</item>
+        <item>Remove</item>
+        <item>Сancle</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="gray">#5D6778</color>
+    <color name="graylight">#C9CED3</color>
+    <color name="green">#5CD377</color>
+    <color name="my_ic_launcher_background">#3DAFDC</color>
+    <color name="purple">#3DAFDC</color>
+    <color name="purplelight">#D6D6FB</color>
+    <color name="purplemedium">#CFB2F8</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">MyWeather_Sepselev</string>
+    <string name="city">City:</string>
+    <string name="emptyfield">Empty Fields</string>
+    <string name="entercity">Enter the city</string>
+    <string name="humidity">Humidity:</string>
+    <string name="notfound">Not Found</string>
+    <string name="now">Now</string>
+    <string name="onlydigit">Temperature, WindySpeed, Pressure and Humidity are only numbers</string>
+    <string name="password">Password</string>
+    <string name="pressure">Pressure:</string>
+    <string name="remember">Remember me next time</string>
+    <string name="save">Save</string>
+    <string name="signin">Sign In</string>
+    <string name="startedtitle">Well come to my weather APP!</string>
+    <string name="temp">Temperature:</string>
+    <string name="title">Login</string>
+    <string name="username">User Name</string>
+    <string name="weather">Find Out</string>
+    <string name="windySpeed">Windy Speed:</string>
+    <style name="Base.Theme.pr22_2_PR32_Sepselev" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.pr22_2_PR32_Sepselev" parent="Base.Theme.pr22_2_PR32_Sepselev"/>
+</resources>

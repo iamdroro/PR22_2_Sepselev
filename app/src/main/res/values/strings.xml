@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">MyWeather_Sepselev</string>
+
+    //MainActivity.
+    <string name="startedtitle">Well come to my weather APP!</string>
+    <string name="title">Login</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember me next time</string>
+    <string name="signin">Sign In</string>
+
+    //MainActivity message.
+    <string name="emptyfield">Empty Fields</string>
+
+    //WeatherForecastActivity.
+    <string name="entercity">Enter the city</string>
+    <string name="weather">Find Out</string>
+    <string name="now">Now</string>
+    <string name="temp">Temperature:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="windySpeed">Windy Speed:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="save">Save</string>
+
+    //WeatherForecastActivity message.
+    <string name="notfound">Not Found</string>
+
+    //RowWeather.
+    <string name="city">City:</string>
+
+    //EditorActivity message.
+    <string name="onlydigit">Temperature, WindySpeed, Pressure and Humidity are only numbers</string>
+
+    <string-array name="itemsoption">
+        <item>Change</item>
+        <item>Remove</item>
+        <item>Сancle</item>
+    </string-array>
+</resources>

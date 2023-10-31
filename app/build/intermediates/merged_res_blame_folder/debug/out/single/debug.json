@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-mdpi_my_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-mdpi\\my_ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-hdpi_my_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-hdpi\\my_ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-hdpi_my_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-hdpi\\my_ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\drawable_greenbutton.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\drawable\\greenbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xxxhdpi_my_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xxxhdpi\\my_ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xxhdpi_my_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xxhdpi\\my_ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xhdpi_my_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xhdpi\\my_ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\drawable_whiteedittext.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\drawable\\whiteedittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xxxhdpi_my_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xxxhdpi\\my_ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-anydpi-v26_my_ic_launcher.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-anydpi-v26\\my_ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\drawable_whitebutton.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\drawable\\whitebutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\layout_activity_editor.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\layout\\activity_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\layout_activity_weather_forecast.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\layout\\activity_weather_forecast.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xxxhdpi_my_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xxxhdpi\\my_ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xxhdpi_my_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xxhdpi\\my_ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-hdpi_my_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-hdpi\\my_ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\layout_row_weather.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\layout\\row_weather.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xxhdpi_my_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xxhdpi\\my_ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\drawable_gradient_bg.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-anydpi-v26_my_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-anydpi-v26\\my_ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-mdpi_my_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-mdpi\\my_ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\drawable_purplecloud.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\drawable\\purplecloud.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xhdpi_my_ic_launcher.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xhdpi\\my_ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-mdpi_my_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-mdpi\\my_ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\mipmap-xhdpi_my_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\mipmap-xhdpi\\my_ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-pngs-30:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myweatherapiroom.app-merged_res-34:/layout_activity_authorization.xml.flat",
+        "source": "com.example.myweatherapiroom.app-main-36:/layout/activity_authorization.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\drawable_imag.png.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\drawable\\imag.png"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\layout_activity_authorization.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\layout\\activity_authorization.xml"
+    },
+    {
+        "merged": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-merged_res-34:\\drawable_my_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\tisep\\.gradle\\daemon\\8.0\\com.example.myweatherapiroom.app-main-36:\\drawable\\my_ic_launcher_foreground.xml"
+    }
+]
